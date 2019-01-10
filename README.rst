@@ -8,7 +8,7 @@ Purpose
 This is a Python implementation of the paper "Unchained Identities: Putting a 
 Price on Sybil Nodes in Mobile Ad hoc Networks". 
 
-https://www.benjaminleiding.com/wp-content/uploads/2018/09/bo_le_ho_2018_unchained_identities.cameraready.pdf
+http://filepool.informatik.uni-goettingen.de/publication/tmg/2018/bo_le_ho_unchained_securecomm2018.pdf
 
 Usage
 -----
