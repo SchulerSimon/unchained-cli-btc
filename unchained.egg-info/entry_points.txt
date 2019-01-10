@@ -1,0 +1,3 @@
+[console_scripts]
+unchained = unchained.cli:main
+

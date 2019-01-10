@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<root>
+  <!--proof-file for: "Unchained Identities: Putting a Price on Sybil Nodes in Mobile Ad hoc Networks" by Prof. Dr. Dieter Hogrefe, M.Sc. Arne Bochem and M.Sc. Bejmain Leiding.-->
+  <proof>
+    <block>010000007f60d40b629bf92ce01138cf0f9491c520d67e2f3a86f05ae5019259e6040000efadbfa60c532785001f22278545ed3f5b1106eb9ce6e1e2a9aa73bbe4129feb4aaa075cffff001f55740000</block>
+    <transaction>
+      0100000001d356ff36186691fefb2bc8f089151a4a99e669729801997273089e02e1046cda000000006b483045022100b6a7ed431be4c1c2dc4c60f3613306872725437ca2c04449cbcb0a5b7131712202204fa0ebc787288c0242e8d7515954dbc9ab12b72e3f68e513d8f144103a986c4b012102dce583e5d9a8296d6fec05db6f0fed37fd9f1e5cc25356fa40c6ac374b512d0fffffffff02e8030000000000001976a91466e2acbd412d3351b7947a84c21e40a057f6dd1888acd4080f00000000001976a914b7319ca4d6f402108aaaad83a4d760fc5326083188ac00000000
+      <index>2</index>
+    </transaction>
+    <trie>120fd4c4b81ca4e7cf6083d9297bfa7992627d2733fa85380eb57442a4f1da62,b2f5a2178a43d5bc497689ce7667cd0250920a85c3bd6d8614f14f0189b86fd3,fa4c68d2d984468f51a95f44c2bbb6735046eda2d5c0a8c89b492716834365fe</trie>
+    <nodeinfo>
+      <nodeid>XSGts5+aavY+uRroHB7QM3CFJg7FFLmDVZo2XWXJfF0=</nodeid>
+      <publickey>rKvRKA7hXsk9uJTiTo9u4WdF7aL7QR3ybH361NabNuoC</publickey>
+    </nodeinfo>
+  </proof>
+</root>

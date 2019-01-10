@@ -1,0 +1,10 @@
+docopt
+web3
+ethereum
+trie
+yattag
+
+[test]
+coverage
+pytest
+pytest-cov
